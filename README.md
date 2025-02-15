@@ -6,3 +6,5 @@
 - Data Science 📊: Analyzing data to drive decisions and predictions.
 - Cybersecurity 🔐: Ensuring the integrity, confidentiality, and availability of systems and data.
 - Artificial Intelligence (AI) 🤖: Fascinated by how machines can learn and adapt.
+
+💬 Nostr: npub1a4y3rk84pdwjtv4dv2g7tvq3fyjd93le8plc9ga0n48qfg27kvdqkcxl56
