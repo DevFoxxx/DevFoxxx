@@ -11,7 +11,7 @@
 
 This year marks the beginning of my journey toward consistent development on GitHub, aiming to learn as much as possible, contribute to open-source projects, and publish my own work.
 
-<p align = "center">
+<p style="text-align: center">
   <img src = "https://github-readme-stats.vercel.app/api?username=devfoxxx&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=devfoxxx&theme=dark&hide_border=true" width = 400>
 </p>
