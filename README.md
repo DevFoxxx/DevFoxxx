@@ -7,6 +7,7 @@
 - Cybersecurity 🔐: Ensuring the integrity, confidentiality, and availability of systems and data.
 - Artificial Intelligence (AI) 🤖: Fascinated by how machines can learn and adapt.
 
+📧 Email: devfoxxx@proton.me
 💬 Nostr: npub1a4y3rk84pdwjtv4dv2g7tvq3fyjd93le8plc9ga0n48qfg27kvdqkcxl56
 
 This year marks the beginning of my journey toward consistent development on GitHub, aiming to learn as much as possible, contribute to open-source projects, and publish my own work.
