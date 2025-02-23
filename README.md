@@ -9,3 +9,9 @@
 
 📧 Email: devfoxxx@proton.me <br>
 💬 Nostr: npub1a4y3rk84pdwjtv4dv2g7tvq3fyjd93le8plc9ga0n48qfg27kvdqkcxl56
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devfoxxx/devfoxxx/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devfoxxx/devfoxxx/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/devfoxxx/devfoxxx/output/github-snake.svg" />
+</picture>
