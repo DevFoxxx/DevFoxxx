@@ -7,5 +7,7 @@
 - Cybersecurity 🔐: Ensuring the integrity, confidentiality, and availability of systems and data.
 - Artificial Intelligence (AI) 🤖: Fascinated by how machines can learn and adapt.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5157540" style='border:none;'></iframe>
+
 📧 Email: devfoxxx@proton.me <br>
 💬 Nostr: npub1a4y3rk84pdwjtv4dv2g7tvq3fyjd93le8plc9ga0n48qfg27kvdqkcxl56
